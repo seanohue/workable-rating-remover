@@ -3,6 +3,10 @@
   "name": "Workable Rating Remover",
   "version": "1.0.0",
   "description": "Hides rating information in Workable.",
+  "background": {
+    "scripts": ["event_page.js"],
+    "persistent": false
+  },
   "page_action": {
     "default_title": "Hide Ratings"
   },
