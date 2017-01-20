@@ -19,7 +19,7 @@
         "https://*.workable.com/backend/jobs/*"
       ],
       "js": [
-        "main.js"
+        "hide_content_script.js"
       ]
     }
   ]
