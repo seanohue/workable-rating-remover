@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Hides rating information in Workable.",
   "page_action": {
-    "default_title": "Hide ratings"
+    "default_title": "Hide Ratings"
   },
   "content_scripts": [
     {
