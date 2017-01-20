@@ -18,8 +18,8 @@
       "matches": [
         "https://*.workable.com/backend/jobs/*"
       ],
-      "js": [
-        "hide_content_script.js"
+      "css": [
+        "hide_content.css"
       ]
     }
   ]

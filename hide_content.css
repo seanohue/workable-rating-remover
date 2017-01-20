@@ -1,0 +1,14 @@
+/* Overall rating in left-hand candidate list. Specificity needed to override other CSS rules. */
+.candidate .rating-widget {
+	display: none;
+}
+
+/* Ratings breakdown below candidate profile picture. */
+.rating-widget__item {
+	display: none;
+}
+
+/* Rating associated with individual comments in candidate timeline. */
+.timeline__icon {
+	display: none;
+}
