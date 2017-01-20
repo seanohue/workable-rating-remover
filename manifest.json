@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Workable Unbias",
-  "version": "1.0.0",
-  "description": "Workable Rating Remover. Hides rating information in Workable.",
+  "name": "Workable Rating Remover.",
+  "version": "1.0.1",
+  "description": "Hides rating information in Workable.",
   "background": {
     "scripts": ["event_page.js"],
     "persistent": false
